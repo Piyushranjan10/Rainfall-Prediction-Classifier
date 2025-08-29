@@ -136,14 +136,4 @@ print("Rainfall" if prediction[0] == 1 else "No Rainfall")
 
 ---
 
-## 📌 Project Status  
-✅ Completed *(or 🚧 In Progress — update accordingly)*  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License** – feel free to use and modify.  
-
----
-
 ✨ Developed with Python, MLflow & Flask ✨  
