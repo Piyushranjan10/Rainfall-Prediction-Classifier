@@ -3,8 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)  
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking%20%26%20Registry-brightgreen)  
-![Flask](https://img.shields.io/badge/Flask-Web%20App-lightgrey)  
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow)  
+![Flask](https://img.shields.io/badge/Flask-Web%20App-lightgrey)   
 
 ---
 
